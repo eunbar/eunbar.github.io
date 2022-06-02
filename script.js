@@ -279,7 +279,7 @@ const itemList = [
     {
         prod_name: "Printed Notes",
         prod_price: 500,
-        prod_pic: ["../picss/notes.png"]
+        prod_pic: ["../pics/notes.png"]
     },
     {
         prod_name: "Protective Equipment",
@@ -379,7 +379,7 @@ const itemList = [
     {
         prod_name: "Test Reviewer",
         prod_price: 200,
-        prod_pic: ["../picss/test.png"]
+        prod_pic: ["../picss/test.jpg"]
     },
     {
         prod_name: "Tissue Roll",
