@@ -79,12 +79,12 @@ const itemList = [
     {
         prod_name: "Canva Poster Templates",
         prod_price: 75,
-        prod_pic: ["../pics/poster.png"]
+        prod_pic: ["../picss/poster.png"]
     },
     {
         prod_name: "Canva Presentation Templates",
         prod_price: 75,
-        prod_pic: ["../pics/presentation.png"]
+        prod_pic: ["../picss/presentation.png"]
     },
     {
         prod_name: "Clipboard",
