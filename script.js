@@ -69,7 +69,7 @@ const itemList = [
     {
         prod_name: "Book (Soft Copy)",
         prod_price: 150,
-        prod_pic: ["../pics/book.png"]
+        prod_pic: ["../picss/book.png"]
     },
     {
         prod_name: "Broom and Dustpan Set",
@@ -79,12 +79,12 @@ const itemList = [
     {
         prod_name: "Canva Poster Templates",
         prod_price: 75,
-        prod_pic: ["../pics/poster.png"]
+        prod_pic: ["../picss/poster.png"]
     },
     {
         prod_name: "Canva Presentation Templates",
         prod_price: 75,
-        prod_pic: ["../pics/presentation.png"]
+        prod_pic: ["../picss/presentation.png"]
     },
     {
         prod_name: "Clipboard",
@@ -144,7 +144,7 @@ const itemList = [
     {
         prod_name: "ID Lace",
         prod_price: 100,
-        prod_pic: ["../pics/id_lace.png"]
+        prod_pic: ["../picss/id_lace.png"]
     },
     {
         prod_name: "Index Cards (30pcs)",
@@ -154,7 +154,7 @@ const itemList = [
     {
         prod_name: "Lab Gown",
         prod_price: 500,
-        prod_pic: ["../pics/lab_gown.png"]
+        prod_pic: ["../picss/lab_gown.png"]
     },
     {
         prod_name: "Laptop",
@@ -244,12 +244,12 @@ const itemList = [
     {
         prod_name: "PE Uniform Pants",
         prod_price: 350,
-        prod_pic: ["../pics/pe_pants.png"]
+        prod_pic: ["../picss/pe_pants.png"]
     },
     {
         prod_name: "PE Uniform Shirt",
         prod_price: 350,
-        prod_pic: ["../pics/pe_shirt.png"]
+        prod_pic: ["../picss/pe_shirt.png"]
     },
     {
         prod_name: "Pencils (8pcs)",
@@ -279,7 +279,7 @@ const itemList = [
     {
         prod_name: "Printed Notes",
         prod_price: 500,
-        prod_pic: ["../pics/notes.png"]
+        prod_pic: ["../picss/notes.png"]
     },
     {
         prod_name: "Protective Equipment",
@@ -374,12 +374,12 @@ const itemList = [
     {
         prod_name: "Tesla",
         prod_price: 2500000,
-        prod_pic: ["../pics/tesla.png"]
+        prod_pic: ["../picss/tesla.png"]
     },
     {
         prod_name: "Test Reviewer",
         prod_price: 200,
-        prod_pic: ["../pics/test.png"]
+        prod_pic: ["../picss/test.png"]
     },
     {
         prod_name: "Tissue Roll",
@@ -414,7 +414,7 @@ const itemList = [
     {
         prod_name: "Tutoring/Consultation Service (per Hour)",
         prod_price: 250,
-        prod_pic: ["../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor (2).png"]
+        prod_pic: ["../picss/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor.png","../pics/tutor (2).png"]
     },
     {
         prod_name: "USB Webcam",
@@ -449,12 +449,12 @@ const itemList = [
     {
         prod_name: "Hoshi Kwon",
         prod_price: 15000000,
-        prod_pic: ["../pics/hoshi.png"]
+        prod_pic: ["../picss/hoshi.png"]
     },
     {
         prod_name: "Kwon Soonyoung",
         prod_price: 15000000,
-        prod_pic: ["../pics/soonyoung.png"]
+        prod_pic: ["../picss/soonyoung.png"]
     },
     {
         prod_name: "Changmin Ji",
@@ -464,7 +464,7 @@ const itemList = [
     {
         prod_name: "Juyeon + Q",
         prod_price: 30000000,
-        prod_pic: ["../pics/jukyu.png"]
+        prod_pic: ["../picss/jukyu.png"]
     },
     {
         prod_name: "Maverick Agbayani",
@@ -479,12 +479,12 @@ const itemList = [
     {
         prod_name: "John Paul Tabrilla",
         prod_price: 1000000,
-        prod_pic: ["../pics/tabrilla.jpg"]
+        prod_pic: ["../picss/tabrilla.jpg"]
     },
     {
         prod_name: "Matilda Eunys Barbon",
         prod_price: 1000000,
-        prod_pic: ["../pics/barbon.jpg"]
+        prod_pic: ["../picss/barbon.jpg"]
     },
     {
         prod_name: "Pauleen Mariah Guisdan",
