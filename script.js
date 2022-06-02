@@ -4,12 +4,12 @@ const itemList = [
     {
         prod_name: "G8 AdTech Set",
         prod_price: 450,
-        prod_pic: ["../pics/adtech_g8.png"]
+        prod_pic: ["../picss/adtech_g8.png"]
     },
     {
         prod_name: "General AdTech Set",
         prod_price: 550,
-        prod_pic: ["../pics/adtech_gen.png"]
+        prod_pic: ["../picss/adtech_gen.png"]
     },
     {
         prod_name: "Ballpen",
