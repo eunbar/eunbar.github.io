@@ -69,7 +69,7 @@ const itemList = [
     {
         prod_name: "Book (Soft Copy)",
         prod_price: 150,
-        prod_pic: ["../picss/book.png"]
+        prod_pic: ["../pics/book.png"]
     },
     {
         prod_name: "Broom and Dustpan Set",
@@ -79,12 +79,12 @@ const itemList = [
     {
         prod_name: "Canva Poster Templates",
         prod_price: 75,
-        prod_pic: ["../picss/poster.png"]
+        prod_pic: ["../pics/poster.png"]
     },
     {
         prod_name: "Canva Presentation Templates",
         prod_price: 75,
-        prod_pic: ["../picss/presentation.png"]
+        prod_pic: ["../pics/presentation.png"]
     },
     {
         prod_name: "Clipboard",
